@@ -1,8 +1,8 @@
 ---
-name: Sanghoon Lee
+name: Jiyoon Gong
 role: ta_solar_car
-email: sanghoon@snu.ac.kr
-website: https://leesanghoon421.github.io/
-photo: shyun.jpeg
+email: jygong@snu.ac.kr
+website: https://jiyoon836.github.io/
+photo: jygong.jpg
 ---
 Master's Student, CEE
