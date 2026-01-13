@@ -1,18 +1,19 @@
 ---
 layout: page
-title: 머신러닝을 위한 기초 수학 및 프로그래밍 실습
+title: 태양광 자동차
 description: >-
     Course policies and information.
 ---
 
-# 머신러닝을 위한 기초 수학 및 프로그래밍 실습
-Basic Mathematics and Programming Practice for Machine Learning
+# 태양광 자동차
+Solar Car Capstone Design
 
-M2177.005800
-> This course aims to develop an understanding of how wise judgment becomes possible in complex phenomena. Students learn how to capture the internal order of phenomena through mathematics and implement it through programming as a sequence of logical procedures. Mathematics is treated as a language for clearly describing complex phenomena, while programming serves as a cognitive tool that translates such descriptions into executable judgment and action. Just as humans perceive the world and make decisions through language, the course explores how language can be modeled as states, probabilities, and decision-making structures, and how these models can be extended into agent-based machine learning systems. Students work with real-world data drawn from natural, industrial, and medical domains, gaining experience in connecting abstract theory to practical problems. In particular, by approaching challenges that are difficult to solve individually through team -based projects with students from diverse academic backgrounds, students experience how different perspectives can be integrated into a coherent judgment structure. The course is open to students of all majors and emphasizes the use of mathematics and programming as tools for structured th inking. Through this course, students are expected to develop the ability to logically analyze and solve complex problems, and to creatively apply mathematical and computational methods to a wide range of real-world challenges.
+M2177.011500
+> This course is an integrated capstone project in which students from diverse academic backgrounds and areas of expertise form teams todesign, manufacture, and validate a sustainable solar car, with the goal of preparing for participation in international solar car competitions such as the World Solar Challenge, the SASOL Solar Car Challenge, and the American Solar Challenge. The course
+combines lectures and technical seminars for theoretical learning with hands-on activities in design, validation, and testing. Based on a thorough analysis of competition regulations, students derive design requirements and carry out corresponding engineering solutions. Through multidisciplinary collaboration, they gain experience in the entire process from concept development to prototyping and performance evaluation, cultivate the ability to assess and present results using engineering, environmental, and economic metrics, and build the technical and organizational foundations necessary for actual competition participation.
 
-- __Location__: Bld 43-101
-- __Lecture__: Friday 9:00 - 12:00
+- __Location__: Bld 43-201
+- __Lecture__: Friday 13:00 - 15:50
   
 ## Teaching Assistants
 {% assign teaching_assistants = site.staffers | where: 'role', 'ta_basic_machine_learning' %}
@@ -29,11 +30,10 @@ M2177.005800
 - 아라키 마사히로, 만화로 쉽게 배우는 머신러닝, 성안당
 
 ## Grading
-- Attendance: 5%
+- Attendance: 15%
 - Assignment: 40%
-- Final exam: 30%
-- Final project: 15%
-- Final report: 5%
+- Midterm: 20%
+- Final exam: 20%
 - Attitude: 5%
 
 ## Assignments

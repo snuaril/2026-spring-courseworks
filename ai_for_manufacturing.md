@@ -15,15 +15,6 @@ M2866.004300
 - __Lecture__: Friday 13:00 - 15:50
   
 
-
-## Co-Lecturer
-{% assign teaching_assistants = site.staffers | where: 'role', 'ta_ai_for_manufacturing_co_lecturer' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
 ## Teaching Assistant
 {% assign teaching_assistants = site.staffers | where: 'role', 'ta_ai_for_manufacturing' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
