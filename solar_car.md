@@ -16,7 +16,7 @@ combines lectures and technical seminars for theoretical learning with hands-on 
 - __Lecture__: Friday 13:00 - 15:50
   
 ## Teaching Assistants
-{% assign teaching_assistants = site.staffers | where: 'role', 'ta_basic_machine_learning' %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'ta_solar_car' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 {% for staffer in teaching_assistants %}
@@ -45,15 +45,15 @@ combines lectures and technical seminars for theoretical learning with hands-on 
 
 | Week | Date | Lecture | 
 |:-------------------:|:-------------------:|-------------------------------------------------------------|
-| 1 | 3/6 | Course opening, and basics of solar cars_ |
-| 2 | 3/13 | Engineering design methodology_ |
-| 3 | 3/20 | Presentation of requirements analysis_ |
-| 4 | 3/27 | Solar energy_ |
-| 5 | 4/3 | Strategy_ |
-| 6 | 4/10 | Solar cell and panel_ |
-| 7 | 4/17 | Aerodynamic design_ |
-| 8 | 4/24 | Electrical systems_ |
-| 9 | 5/1 | Battery systems_|
+| 1 | 3/6 | Course opening, and basics of solar cars |
+| 2 | 3/13 | Engineering design methodology |
+| 3 | 3/20 | Presentation of requirements analysis |
+| 4 | 3/27 | Solar energy |
+| 5 | 4/3 | Strategy |
+| 6 | 4/10 | Solar cell and panel |
+| 7 | 4/17 | Aerodynamic design |
+| 8 | 4/24 | Electrical systems |
+| 9 | 5/1 | Battery systems |
 | 10 | 5/8 | Chassis & mechanical parts design, CFRP manufacturing |
 | 11 | 5/15 | Racing team management | 
 | 12 | 5/22 | Team work and face-to-face meeting with mentors – 1 | 
