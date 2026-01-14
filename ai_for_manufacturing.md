@@ -43,15 +43,15 @@ M2866.004300
 - LLM with Digital Twin
   - [Reference Paper](https://ieeexplore.ieee.org/document/10710900)
 
-
+<!--
 | Phase | Week | Date | Topic | Lab session / Activity |
 |:----|:----:|:----:|----|------|
 | **Phase I – Manufacturing from Living Systems** | 1 | 3/4 | Course Introduction: Why **Physical AI** for Manufacturing<br />- Overview of course structure and projects | - |
 |  | 2 | 3/11 | Manufacturing in Living Systems I: Cell-Level Production<br />- How single cells manufacture structure and function. DNA as constraint rather than blueprint. Distributed manufacturing without centralized control | Individual expertise and interests introduction |
-
+-->
 ## Lecture Schedule
 
-<!--| Phase | Week | Date | Topic | Lab session / Activity |
+| Phase | Week | Date | Topic | Lab session / Activity |
 |:----|:----:|:----:|----|------|
 | **Phase I – Manufacturing from Living Systems** | 1 | 3/4 | Course Introduction: Why **Physical AI** for Manufacturing<br />- Overview of course structure and projects | - |
 |  | 2 | 3/11 | Manufacturing in Living Systems I: Cell-Level Production<br />- How single cells manufacture structure and function. DNA as constraint rather than blueprint. Distributed manufacturing without centralized control | Individual expertise and interests introduction |
@@ -68,7 +68,7 @@ M2866.004300
 |  | 13 | 5/27 | Multi-Agent Systems and Human–AI Collaboration<br />- Limits of full automation. Designing human intervention, responsibility, and safety | - |
 |  | 14 | 6/3 | Peer Review | - |
 |  | 15 | 6/10 | Final Presentation | - |
--->
+
 ## References
 - Mingu Jeon, In-Ho Choi, Seung-Woo Seo, and Seong-Woo Kim, "Extremely Rare Anomaly Detection Pipeline in Semiconductor Bonding Process with Digital Twin-driven Data Augmentation Method," IEEE Transactions on Components, Packaging and Manufacturing Technology, Vol. 14, No. 10, pp. 1891 - 1902, Oct. 2024
 - Gyuho Lee, Seong-Woo Kim, and Mingu Jeon, “Machinery Value Estimation Method based on IIoT System Utilizing 1D-CNN Model for Low Sampling Rate Vibration Signals from MEMS,” IEEE Internet of Things Journal, Vol. 10, No. 14, pp. 12261-12275, July. 2023
