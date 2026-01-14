@@ -46,7 +46,7 @@ M2866.004300
 
 | Phase | Week | Date | Topic | Lab session / Activity |
 |:----|:----:|:----:|----|------|
-| **Phase I – Manufacturing from Living Systems** | 1 | 3/4 | test | - |
+| **Phase I – Manufacturing from Living Systems** | 1 | 3/4 | Course Introduction: Why **Physical AI** for Manufacturing<br />- Overview of course structure and projects | - |
 
 
 ## Lecture Schedule
