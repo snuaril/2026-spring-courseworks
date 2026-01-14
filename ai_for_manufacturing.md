@@ -9,10 +9,23 @@ description: >-
 Artificial Intelligence for Manufacturing
 
 M2866.004300
-> The development of artificial intelligence technology that reproduces human intelligence with the same structure and principles is expected to bring innovation to the manufacturing sectors that have been outside the field of automation and computerization. This course aims to understand the fundamental principles, possibilities, and limitations of how artificial intelligence can be used to manufacture products. For this purpose, students will learn not only product inspection, forecasting and maintenance, but also theories, practical examples of specific artificial intelligence that can meet the demands in each manufacturing flow, including product design, material discovery and design, and manufacturing machinery.
+> As our understanding deepens of how humans interact with the physical world through perception, judgment, and action to
+create structure and function, artificial intelligence is expanding beyond simple prediction and automation toward Physical
+AI, systems that make decisions, take actions, and produce physical outcomes. This shift is expected to bring a
+fundamental transformation to manufacturing, a domain that has traditionally remained outside the full scope of
+automation. This course reinterprets manufacturing not as a problem of process optimization or data-driven prediction, but
+as an intelligent system that actively creates in the physical world, inspired by principles derived from living systems. The
+course examines biological manufacturing processes from the level of single cells to neural learning and plasticity, and
+explores the foundations of visual, language, and generative intelligence to understand their implications for
+manufacturing system design. Going beyond conventional manufacturing AI applications such as inspection, prediction,
+and maintenance, students address real-world challenges across the manufacturing lifecycle, including product and
+structural design, intelligent manufacturing systems, and human–AI–machine collaboration. Through projects based on
+their own company domains and data, students design and evaluate manufacturing AI systems with an emphasis on
+explainability, responsibility, and safety, developing practical capabilities for applying Physical AI in real industrial
+environments.
 
 - __Location__: Bld 38-429
-- __Lecture__: Friday 13:00 - 15:50
+- __Lecture__: Wednesday 14:00 – 16:50
   
 
 ## Teaching Assistant
@@ -45,25 +58,23 @@ M2866.004300
 
 
 ## Lecture Schedule
-
-| Week | Date | Lecture | 
-|:-------------------:|:-------------------:|-------------------------------------------------------------|
-| 1	|3/7	|Course opening<br /> - Manufacturing in the era of AI and Deep Learning: Status quo, potential and limitations<br /> - Historical overview of Human Intelligence, Artificial Intelligence and Deep Learning
-| 2|	3/14|	Machine Learning and Optimization<br /> - Fundamental principle of Machine Learning<br /> - Linear/convex/non-linear optimization, Gradient Descent Method, Newton’s Method	
-| 3|	3/21|	Neuron and Plasticity<br /> - Accelerated Gradient Method<br /> - Fundamentals on artificial neural networks: Hodgkin and Huxley, Relay/Perceptron<br /> - Understanding learning: Memory/Hippocampus/Plasticity, Long-Term Potentiation
-| 4|	3/28|	Learning and Perception<br /> - Learning in neural networks: Function of sleeping/Back-propagation, End-to-End training	
-| 5|	4/4	|Visual understanding 1 
-| 6|	4/11 |Visual understanding 2 
-| 7|	4/18 |	Temporal understanding – Theory<br />- Sequence learning, learning in long-term dependency, Seq-to-sequence learning<br /> - Lab Session 1: Defective PCB Detection
-| 8|	4/25 |	Abstraction<br /> - Autoencoder, Defect and Abnormality detection, Word2Vec
-| 9|	5/2	|Translation and Language Model<br /> - Attention, Image translation, Natural Language Processing<br /> - Lab session 2: Classification of Vibration Signal 
-| 10|	5/9 |Understanding Language and Final exam<br /> - Talk to AI, Pretrained Language Model
-| 11|	5/16 |Understanding multi-modal data<br /> - Multi-modality – LLM and LMM
-| 12|	5/23 |Structure of idea and simulationy<br /> - Variational Autoencoder, Generative Adversarial Networks<br /> - Lab session 3: LLM with Digital Twin/Simulator
-| 13|	5/30 |Diffusion Model<br /> - Image and Video generation, Explainable AI 
-| 14|	6/6 |Selection by Consequences, Reinforcement Learning (National holiday, not mandatory)<br /> - ChatGPT, DeepSeek: Language Learning and Reasoning by Reinforcement Learning
-| 15|	6/13 |	Final presentation and exhibition
-| 16|	6/20 |	Final report, grading, feedback
+| Phase | Week | Date | Topic | Lab session / Activity |
+|:--|:--:|:--:|--|--|
+| **Phase I – Manufacturing from Living Systems** | 1 | 3/4 | Course Introduction: Why **Physical AI** for Manufacturing<br />- Overview of course structure and projects | - |
+|  | 2 | 3/11 | Manufacturing in Living Systems I: Cell-Level Production<br />- How single cells manufacture structure and function<br />- DNA as constraint rather than blueprint<br />- Distributed manufacturing without centralized control | Individual expertise and interests introduction |
+|  | 3 | 3/18 | Manufacturing in Living Systems II: Mechanism, and Evolution<br />- Historical discovery of biological mechanisms<br />- Viruses as high-speed manufacturing systems<br />- Lessons from the COVID-19 pandemic: mutation, adaptation, and failure | Team building |
+|  | 4 | 3/25 | Neurons, Plasticity, and the Emergence of Intelligence<br />- Neurons as structural units of intelligence<br />- Plasticity as structural manufacturing<br />- Learning as a physical process | - |
+| **Phase II – Biological Principles of Intelligence** | 5 | 4/1 | Visual Intelligence: Seeing as Physical Interaction<br />- Biological vision as an active, embodied process<br />- From light to cells | Visual perception |
+|  | 6 | 4/8 | Language Intelligence: Constraints, Not Commands<br />- Language as a constraint system for coordination, explanation, and responsibility<br />- Implications for human–AI collaboration | Language-guided decision structures using AI model |
+|  | 7 | 4/15 | Generative Intelligence: Creating by Shaping Possibility<br />- Generation as exploration of possibility spaces<br />- Biological development, variation, and adaptation<br />- Generative models as explorers rather than producers | Generative exploration and evaluation of solution spaces |
+|  | 8 | 4/22 | Explainable AI: Judgment, Responsibility, and Trust<br />- Design requirement for responsibility | Explainable AI |
+|  | 9 | 4/29 | **Midterm Exam** | - |
+| **Phase III – Domain-specific Physical AI Projects** | 10 | 5/6 | Agents as Decision-Making Entities<br />- Introduction to Agents and Physical AI | Company or Individual Domain Presentations |
+|  | 11 | 5/13 | Reinforcement Learning as a Model of Experience<br />- Reframing manufacturing processes in terms of Reinforcement Learning from a Physical AI perspective | RL + Isaac Sim #1 |
+|  | 12 | 5/20 | Digital Twin and Simulation for Physical AI<br />- Reward shaping<br />- Role of digital twins and simulators in Physical AI<br />- Simulation as a testbed for policies and potentials<br />- Design of Potentials | RL + Isaac Sim #2 |
+|  | 13 | 5/27 | Multi-Agent Systems and Human–AI Collaboration<br />- Limits of full automation<br />- Designing human intervention, responsibility, and safety | - |
+|  | 14 | 6/3 | Peer Review | - |
+|  | 15 | 6/10 | Final Presentation | - |
 
 ## References
 - Mingu Jeon, In-Ho Choi, Seung-Woo Seo, and Seong-Woo Kim, "Extremely Rare Anomaly Detection Pipeline in Semiconductor Bonding Process with Digital Twin-driven Data Augmentation Method," IEEE Transactions on Components, Packaging and Manufacturing Technology, Vol. 14, No. 10, pp. 1891 - 1902, Oct. 2024

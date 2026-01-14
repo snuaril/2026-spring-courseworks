@@ -44,21 +44,22 @@ M2177.005800
 
 | Week | Date | Lecture | 
 |:-------------------:|:-------------------:|-------------------------------------------------------------|
-| 1 | 3/7 | Course introduction and Axiomatic system Axiomatic system <br /> from the structure of the Universe to the structure of thought. <br /> _Programming practice: Installation and first programming._ |
-| 2 | 3/14 | Retrogradation <br /> Retrograde motion in the sky, Function, Derivative, Chain-rule, Retrograde signal in a cell <br /> _Programming practice: Basic python programming practice_ |
-| 3 | 3/21 | Optimization and Regression <br /> Optimization frameworks, Gradient descent method and Convexity, Non-linear optimization, Monte Carlo Method, Linear regression <br /> _Programming practice: Random number generation, Gradient descent method, Monte Carlo method._ |
-| 4 | 3/28 | Analytical geometry <br /> Mathematical modeling of neurons, From Euclidean geometry to analytical geometry, Occam's razor <br /> _Programming practice: Training binary operations_ |
-| 5 | 4/4 | Linear Algebra and Associative memory <br /> Fundamentals on Vector, Fundamentals on Matrix, Associate memory <br /> _Programming practice: Vector class, vector calculation, matrix operation_ |
-| 6 | 4/11 | Dimensionality reduction – 1/ Team meeting #1 <br /> Dimensionality reduction in linear transformation, Dimensional reduction in Perceptron <br />_Programming practice:  MNIST classification_ |
-| 7 | 4/18 | Dimensionality reduction – 2 <br /> Eigen vector/value, Principal Component Analysis, Singular Vector Decomposition <br /> _Programming practice: Eigen vector/value, PCA with MNIST_ |
-| 8 | 4/25 | Distance / One-page idea proposal <br /> Euclidean distance, Minkowski distance, Distance in general space, Autoencoder, Event Horizon Telescope <br /> _Programming practice: Autoencoder_ |
-| 9 | 5/2 | Randomness in Machine Learning <br /> Randomness, Gaussian distribution, Randomness in Encoder|
-| 10 | 5/9 | Distance in probability / Project planning <br /> Kullback-Leibler Divergence, Decision Tree, Ensemble, Bagging, Boosting, and Random forest. |
-| 11 | 5/16 | Distance in time <br /> Prediction in time, Distance in time, Map of meanings | 
-| 12 | 5/23 | Final Exam / Team meeting #2 | 
-| 13 | 5/30 | Symmetry in Machine Learning <br /> Recommendation, Measure of Intelligence, Incompleteness theorems, Symmetry in Universe and Intelligence |
-| 14 | 6/13 | Peer-to-peer review | 
-| 15 | 6/20 | Final project presentation and exhibition | 
+| 1 |  3/6 | **Axiomatic Systems and the Foundations of Thought** <br /> Introduction to axiomatic systems as the foundation of reasoning, from the structure of the universe to the structure of human thought.                   |
+| 2 | 3/13 | **Observation, Misinterpretation, and Judgment** <br /> Retrograde motion, derivatives, and chain rules as metaphors for how local observations can lead to global misinterpretations in judgment.                    |
+| 3 | 3/20 | **Optimization and Judgment** <br /> Optimization frameworks, gradient descent, convexity, and Monte Carlo methods.                                                                                                   |
+| 4 | 3/27 | **Geometric Thinking and Simplicity** <br /> Analytical geometry, neural modeling, and Occam’s razor. <br /> *Activity: Team Meeting #1*                                                                              |
+| 5 |  4/3 | **Linear Algebra, Meaning, and Associative Memory** <br /> Vectors, matrices, and associative memory as mathematical foundations for meaning and recall.                                                              |
+| 6 | 4/10 | **Dimensionality Reduction and Selective Attention** <br /> Reducing complexity to enable effective judgment, information compression, and feature selection.                                                         |
+| 7 | 4/17 | **Perspective and Interpretation** <br /> Eigenvectors, PCA, and SVD as changes of perspective that affect interpretation and decision making.                                                                        |
+| 8 | 4/24 | **Distance, Similarity, and Language** <br /> Distance metrics in general spaces, autoencoders, and the role of distance in linguistic and conceptual similarity. <br /> *Assignment: One-page project idea proposal* |
+| 9 |  5/1 | **Randomness and Rationality under Uncertainty** <br /> Gaussian distributions and the strategic role of randomness in decision making.                                                                               |
+| 10 |  5/8 | **Distance in Probability and Divergent Judgments** <br /> Kullback–Leibler divergence, decision trees, ensemble methods, and comparing different decision strategies. <br /> *Activity: Project planning*            |
+| 11 | 5/15 | **Written Exam** <br /> *Activity: Team Meeting #2*                                                                                                                                                                   |
+| 12 | 5/22 | **Time, Memory, and Prediction** <br /> Decision making over time, temporal distance, and the role of memory in judgment.                                                                                             |
+| 13 | 5/29 | **Symmetry, Intelligence, and Incompleteness** <br /> Symmetry in machine learning, recommendation systems, and fundamental limits of intelligence and reasoning.                                                     |
+| 14 |  6/5 | **Peer Review and Project Refinement** <br /> Peer-to-peer evaluation of decision-making structures and agent designs.                                                                                                |
+| 15 | 6/12 | **Final Project Presentation** <br /> Presentation and demonstration of team projects focusing on judgment structure, agent behavior, and explainability.                                                             |
+
 
 ## Final PT
 - XAICON 2025 [TBA]
