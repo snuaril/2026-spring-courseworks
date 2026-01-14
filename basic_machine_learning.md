@@ -37,12 +37,7 @@ M2177.005800
 - Attitude: 5%
 
 ## Assignments
-- homework1: Motion of Stars
-- homework2: Classification of chest X-ray images
-  - [ChestX-ray paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)
-  - [ChestX-ray dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345)    
-- homework3: TBD
-- homework4: TBD
+- homeworks: TBD
     
 
 ## Lecture Schedule
