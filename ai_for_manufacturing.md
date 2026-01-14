@@ -9,20 +9,7 @@ description: >-
 Artificial Intelligence for Manufacturing
 
 M2866.004300
-> As our understanding deepens of how humans interact with the physical world through perception, judgment, and action to
-create structure and function, artificial intelligence is expanding beyond simple prediction and automation toward Physical
-AI, systems that make decisions, take actions, and produce physical outcomes. This shift is expected to bring a
-fundamental transformation to manufacturing, a domain that has traditionally remained outside the full scope of
-automation. This course reinterprets manufacturing not as a problem of process optimization or data-driven prediction, but
-as an intelligent system that actively creates in the physical world, inspired by principles derived from living systems. The
-course examines biological manufacturing processes from the level of single cells to neural learning and plasticity, and
-explores the foundations of visual, language, and generative intelligence to understand their implications for
-manufacturing system design. Going beyond conventional manufacturing AI applications such as inspection, prediction,
-and maintenance, students address real-world challenges across the manufacturing lifecycle, including product and
-structural design, intelligent manufacturing systems, and human–AI–machine collaboration. Through projects based on
-their own company domains and data, students design and evaluate manufacturing AI systems with an emphasis on
-explainability, responsibility, and safety, developing practical capabilities for applying Physical AI in real industrial
-environments.
+> As our understanding deepens of how humans interact with the physical world through perception, judgment, and action to create structure and function, artificial intelligence is expanding beyond simple prediction and automation toward Physical AI, systems that make decisions, take actions, and produce physical outcomes. This shift is expected to bring a fundamental transformation to manufacturing, a domain that has traditionally remained outside the full scope of automation. This course reinterprets manufacturing not as a problem of process optimization or data-driven prediction, but as an intelligent system that actively creates in the physical world, inspired by principles derived from living systems. The course examines biological manufacturing processes from the level of single cells to neural learning and plasticity, and explores the foundations of visual, language, and generative intelligence to understand their implications for manufacturing system design. Going beyond conventional manufacturing AI applications such as inspection, prediction, and maintenance, students address real-world challenges across the manufacturing lifecycle, including product and structural design, intelligent manufacturing systems, and human–AI–machine collaboration. Through projects based on their own company domains and data, students design and evaluate manufacturing AI systems with an emphasis on explainability, responsibility, and safety, developing practical capabilities for applying Physical AI in real industrial environments.
 
 - __Location__: Bld 38-429
 - __Lecture__: Wednesday 14:00 – 16:50
@@ -59,7 +46,7 @@ environments.
 
 ## Lecture Schedule
 | Phase | Week | Date | Topic | Lab session / Activity |
-|:--|:--:|:--:|--|--|
+|:----|:----:|:----:|----|------|
 | **Phase I – Manufacturing from Living Systems** | 1 | 3/4 | Course Introduction: Why **Physical AI** for Manufacturing<br />- Overview of course structure and projects | - |
 |  | 2 | 3/11 | Manufacturing in Living Systems I: Cell-Level Production<br />- How single cells manufacture structure and function<br />- DNA as constraint rather than blueprint<br />- Distributed manufacturing without centralized control | Individual expertise and interests introduction |
 |  | 3 | 3/18 | Manufacturing in Living Systems II: Mechanism, and Evolution<br />- Historical discovery of biological mechanisms<br />- Viruses as high-speed manufacturing systems<br />- Lessons from the COVID-19 pandemic: mutation, adaptation, and failure | Team building |
