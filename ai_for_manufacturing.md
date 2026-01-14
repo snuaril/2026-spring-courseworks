@@ -47,9 +47,7 @@ M2866.004300
 | Phase | Week | Date | Topic | Lab session / Activity |
 |:----|:----:|:----:|----|------|
 | **Phase I – Manufacturing from Living Systems** | 1 | 3/4 | Course Introduction: Why **Physical AI** for Manufacturing<br />- Overview of course structure and projects | - |
-
-<!--|  | 2 | 3/11 | Manufacturing in Living Systems I: Cell-Level Production<br />- How single cells manufacture structure and function. DNA as constraint rather than blueprint. Distributed manufacturing without centralized control | Individual expertise and interests introduction |
--->
+|  | 2 | 3/11 | Manufacturing in Living Systems I: Cell-Level Production<br />- How single cells manufacture structure and function. DNA as constraint rather than blueprint. Distributed manufacturing without centralized control | Individual expertise and interests introduction |
 
 ## Lecture Schedule
 
