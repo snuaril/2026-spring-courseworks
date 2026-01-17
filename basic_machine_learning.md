@@ -25,9 +25,6 @@ M2177.005800
 
 ---
 
-## References
-- 아라키 마사히로, 만화로 쉽게 배우는 머신러닝, 성안당
-
 ## Grading
 - Attendance: 5%
 - Assignment: 40%
