@@ -35,11 +35,7 @@ combines lectures and technical seminars for theoretical learning with hands-on 
 - Assignment: 40%
 - Midterm: 20%
 - Final exam: 20%
-- Attitude: 5%
-
-## Assignments
-- TBD
-    
+- Attitude: 5% 
 
 ## Lecture Schedule
 
