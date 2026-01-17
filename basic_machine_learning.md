@@ -59,7 +59,7 @@ M2177.005800
 
 
 ## Final PT
-- XAICON 2025 [TBA]
+- XAICON 2026 [TBA]
 - [XAICON 2023](https://sites.google.com/view/xaicon2023)
 - [XAICON 2022](https://sites.google.com/view/xaicon2022)
 - [XAICON 2021](https://sites.google.com/view/xaicon2021)
