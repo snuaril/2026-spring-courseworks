@@ -21,7 +21,7 @@ M2177.002400
 {% endfor %}
 
 ## Teaching Assistant
-{% assign teaching_assistants = site.staffers | where: 'role', 'ta_ai_for_manufacturing' %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'ta_global_product_development' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 {% for staffer in teaching_assistants %}
