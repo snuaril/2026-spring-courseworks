@@ -5,14 +5,14 @@ description: >-
     Course policies and information.
 ---
 
-# 제조를 위한 인공지능
-Artificial Intelligence for Manufacturing
+# 글로벌 창의적 제품개발
+Global Product Development
 
-M2866.004300
-> As our understanding deepens of how humans interact with the physical world through perception, judgment, and action to create structure and function, artificial intelligence is expanding beyond simple prediction and automation toward Physical AI, systems that make decisions, take actions, and produce physical outcomes. This shift is expected to bring a fundamental transformation to manufacturing, a domain that has traditionally remained outside the full scope of automation. This course reinterprets manufacturing not as a problem of process optimization or data-driven prediction, but as an intelligent system that actively creates in the physical world, inspired by principles derived from living systems. The course examines biological manufacturing processes from the level of single cells to neural learning and plasticity, and explores the foundations of visual, language, and generative intelligence to understand their implications for manufacturing system design. Going beyond conventional manufacturing AI applications such as inspection, prediction, and maintenance, students address real-world challenges across the manufacturing lifecycle, including product and structural design, intelligent manufacturing systems, and human–AI–machine collaboration. Through projects based on their own company domains and data, students design and evaluate manufacturing AI systems with an emphasis on explainability, responsibility, and safety, developing practical capabilities for applying Physical AI in real industrial environments.
+M2177.002400
+> This course is a practice-oriented entrepreneurship program designed to develop creative ideas into real products and viable companies for the global market. Going beyond simulation-based startups limited to the domestic context, the course focuses on problem definition, product design, business structuring, and ultimately company incorporation based on the U.S. market. The course is organized as a studio-style class centered on mentoring and feedback from global venture capitalists and experienced entrepreneurs. Rather than relying on traditional lectures, students engage in team-based projects and iterative validation processes. Through this approach, students learn to identify genuine customer problems, design minimum viable products (MVPs), and build compelling product and company narratives that are persuasive from a global investor’s perspective. The course is operated intensively with a selective group of aspiring entrepreneurs. Outstanding teams are offered short-term overseas immersion programs, providing direct exposure to global startup ecosystems such as Silicon Valley, along with opportunities to interact with local venture capitalists, founders, and industry experts, and to participate in pitching sessions. Through these experiences, students aim to acquire practical entrepreneurial capabilities to build startups that can operate effectively in global markets, rather than merely proposing ideas.
 
-- __Location__: Bld 38-429
-- __Lecture__: Wednesday 14:00 – 16:50
+- __Location__: Online (Zoom link will be provided)
+- __Lecture__: Thursday 14:00 – 16:50
   
 ## Instructor
 {% assign instructors = site.staffers | where: 'role', 'instructor' %}
@@ -32,49 +32,31 @@ M2866.004300
 ---
 
 ## Grading
-- Attendance: 5%
-- Assignment: 40%
-- Final Exam: 25%
-- Attitude: 5%
-- Project: 25%
+TBD
 
 ## Assignment
-- Defective PCB Detection
-  - [Reference Paper](https://www.nature.com/articles/s41597-024-03656-8)    
-  - [Dataset](https://figshare.com/articles/dataset/DsPCBSD_/24970329?file=44069552)
-- Classification of Vibration Signal
-  - [Reference Paper](https://ieeexplore.ieee.org/document/9078761)
-  - [Dataset](https://engineering.case.edu/bearingdatacenter/download-data-file)
-- LLM with Digital Twin
-  - [Reference Paper](https://ieeexplore.ieee.org/document/10710900)
+TBD
 
-<!--
-| Phase | Week | Date | Topic | Lab session / Activity |
-|:----|:----:|:----:|----|------|
-| **Phase I – Manufacturing from Living Systems** | 1 | 3/4 | Course Introduction: Why **Physical AI** for Manufacturing<br />- Overview of course structure and projects | - |
-|  | 2 | 3/11 | Manufacturing in Living Systems I: Cell-Level Production<br />- How single cells manufacture structure and function. DNA as constraint rather than blueprint. Distributed manufacturing without centralized control | Individual expertise and interests introduction |
--->
+
 ## Lecture Schedule
 
-| Phase | Week | Date | Topic | Lab session / Activity |
-|:----|:----:|:----:|----|------|
-| **Phase I – Manufacturing from Living Systems** | 1 | 3/4 | Course Introduction: Why **Physical AI** for Manufacturing<br />- Overview of course structure and projects | - |
-|  | 2 | 3/11 | Manufacturing in Living Systems I: Cell-Level Production<br />- How single cells manufacture structure and function. DNA as constraint rather than blueprint. Distributed manufacturing without centralized control | Individual expertise and interests introduction |
-|  | 3 | 3/18 | Manufacturing in Living Systems II: Mechanism, and Evolution<br />- Historical discovery of biological mechanisms. Viruses as high-speed manufacturing systems. Lessons from the COVID-19 pandemic: mutation, adaptation, and failure | Team building |
-|  | 4 | 3/25 | Neurons, Plasticity, and the Emergence of Intelligence<br />- Neurons as structural units of intelligence. Plasticity as structural manufacturing. Learning as a physical process | - |
-| **Phase II – Biological Principles of Intelligence** | 5 | 4/1 | Visual Intelligence: Seeing as Physical Interaction<br />- Biological vision as an active, embodied process. From light to cells | Visual perception |
-|  | 6 | 4/8 | Language Intelligence: Constraints, Not Commands<br />- Language as a constraint system for coordination, explanation, and responsibility. Implications for human–AI collaboration | Language-guided decision structures using AI model |
-|  | 7 | 4/15 | Generative Intelligence: Creating by Shaping Possibility<br />- Generation as exploration of possibility spaces. Biological development, variation, and adaptation. Generative models as explorers rather than producers | Generative exploration and evaluation of solution spaces |
-|  | 8 | 4/22 | Explainable AI: Judgment, Responsibility, and Trust<br />- Design requirement for responsibility | Explainable AI |
-|  | 9 | 4/29 | **Midterm Exam** | - |
-| **Phase III – Domain-specific Physical AI Projects** | 10 | 5/6 | Agents as Decision-Making Entities<br />- Introduction to Agents and Physical AI | Company or Individual Domain Presentations |
-|  | 11 | 5/13 | Reinforcement Learning as a Model of Experience<br />- Reframing manufacturing processes in terms of Reinforcement Learning from a Physical AI perspective | RL + Isaac Sim #1 |
-|  | 12 | 5/20 | Digital Twin and Simulation for Physical AI<br />- Reward shaping<br />- Role of digital twins and simulators in Physical AI. Simulation as a testbed for policies and potentials. Design of Potentials | RL + Isaac Sim #2 |
-|  | 13 | 5/27 | Multi-Agent Systems and Human–AI Collaboration<br />- Limits of full automation. Designing human intervention, responsibility, and safety | - |
-|  | 14 | 6/3 | Peer Review | - |
-|  | 15 | 6/10 | Final Presentation | - |
+| Week | Date | Topic | Weekly Assignment / Deliverables |
+|:----:|:----:|----|------|
+| 1 | 3/5 | Global Startup Orientation | Survey with introduction & startup idea they want to develop during the semester  |
+| 2 | 3/12 | Problem Discovery & Global Market | Individual expertise and interests introduction |
+| 3 | 3/19 | User & Value Proposition | Group activity result submission  |
+| 4 | 3/26 | Competitive Landscape & Differentiation | Homework - Student self work : Customer Interview results  |
+| 5 | 4/2 | Product Vision & MVP Definition | Homework - Student self work : MVP Roadmap  |
+| 6 | 4/9 | MVP Development & Early Validation | A first “vibe-coded” prototype or test asset |
+| 7 | 4/16 | Product–Market Fit Signals | Group activity result : 1 diagram + 3 retention risks + 1 metric per team. |
+| 8 | 4/23 | Business Model & Go-to-Market | US GTM Roadmap (4–6 weeks) <br /> Positioning & Messaging Draft |
+| 9 | 4/30 | Team, Equity & Founder Structure | Team role and structure <br /> Equity & Table Fundamentals  |
+| 10 | 5/7 | US Incorporation & Legal Basics | US entity setup checklist <br /> Incorporation Execution Plan |
+| 11 | 5/14 | VC Perspective & Pitch Logic | A repeatable VC conversation structure (opening, story, metrics, ask, close) <br /> A refined fundraising narrative + ask |
+| 12 | 5/21 | Pitch Deck Refinement | Pitching deck and script draft |
+| 13 | 5/28 | Pre-Demo Review & Final Validation | Pitching deck and script draft |
+| 14 | 6/4 | Demo Day | Final Demoday Pitching  |
+| 15 | 6/11 | Reflection & Grading | Participants will compile an individual contribution log as a portfolio and complete a structured retrospective to capture key learnings and next steps. |
 
 ## References
-- Mingu Jeon, In-Ho Choi, Seung-Woo Seo, and Seong-Woo Kim, "Extremely Rare Anomaly Detection Pipeline in Semiconductor Bonding Process with Digital Twin-driven Data Augmentation Method," IEEE Transactions on Components, Packaging and Manufacturing Technology, Vol. 14, No. 10, pp. 1891 - 1902, Oct. 2024
-- Gyuho Lee, Seong-Woo Kim, and Mingu Jeon, “Machinery Value Estimation Method based on IIoT System Utilizing 1D-CNN Model for Low Sampling Rate Vibration Signals from MEMS,” IEEE Internet of Things Journal, Vol. 10, No. 14, pp. 12261-12275, July. 2023
-- Mingu Jeon, Siyun Yoo, and Seong-Woo Kim, "A Contactless PCBA Defect Detection Method: Convolutional Neural Networks with Thermographic Images," IEEE Transactions on Components, Packaging and Manufacturing Technology, Vol. 12, No. 3, pp 489 - 501, March 2022
+- How to Start a Startup (YC Startup School / Stanford CS183B)
