@@ -14,7 +14,13 @@ combines lectures and technical seminars for theoretical learning with hands-on 
 
 - __Location__: Bld 43-201
 - __Lecture__: Friday 13:00 - 15:50
-  
+
+## Instructor
+{% assign instructors = site.staffers | where: 'role', 'instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
 ## Teaching Assistants
 {% assign teaching_assistants = site.staffers | where: 'role', 'ta_solar_car' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}

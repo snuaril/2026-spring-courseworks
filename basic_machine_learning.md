@@ -13,7 +13,13 @@ M2177.005800
 
 - __Location__: Bld 43-101
 - __Lecture__: Friday 9:00 - 12:00
-  
+
+## Instructor
+{% assign instructors = site.staffers | where: 'role', 'instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
 ## Teaching Assistants
 {% assign teaching_assistants = site.staffers | where: 'role', 'ta_basic_machine_learning' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
