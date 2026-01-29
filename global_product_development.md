@@ -34,9 +34,6 @@ M2177.002400
 ## Grading
 TBD
 
-## Assignment
-TBD
-
 
 ## Lecture Schedule
 
