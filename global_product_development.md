@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 제조를 위한 인공지능
+title: 글로벌 창의적 제품개발
 description: >-
     Course policies and information.
 ---

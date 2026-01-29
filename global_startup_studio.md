@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 제조를 위한 인공지능
+title: 글로벌 스타트업 스튜디오
 description: >-
     Course policies and information.
 ---
