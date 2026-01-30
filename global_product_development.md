@@ -55,5 +55,4 @@ TBD
 | 14 | 6/4 | Demo Day | Final Demoday Pitching  |
 | 15 | 6/11 | Reflection & Grading | Participants will compile an individual contribution log as a portfolio and complete a structured retrospective to capture key learnings and next steps. |
 
-## References
-- How to Start a Startup (YC Startup School / Stanford CS183B)
+
