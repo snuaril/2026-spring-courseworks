@@ -83,6 +83,7 @@ This course is avilable only for student who participated SNU Campus in the Worl
   (Return to Korea: January 16, 2026)
 
 **Detailed Schedule**
+
 | Date | Activity |
 |:----:|----|
 | 1/6 | Travel from Incheon Airport to Las Vegas |
