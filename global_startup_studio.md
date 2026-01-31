@@ -114,22 +114,23 @@ This course is avilable only for student who participated SNU Campus in the Worl
 *CES 2026 Exhibition, Las Vegas*
 
 ![UKF 82 Startup Summit](assets/images/global-startup-studio/SCWP_UKF82_2026.jpg)
-*UKF 82 Startup Summit*
+*UKF 82 Startup Summit, Palo Alto*
 
 ![Stanford University Visit](assets/images/global-startup-studio/SCWP_Stanford_2026.jpg)
-*Stanford University Visit and startup ecosystem exploration*
+*Stanford University Visit*
 
 ![Global Mentoring 1](assets/images/global-startup-studio/SCWP_Global_Mentoring_1_2026.jpg)
-*Global mentoring session with local entrepreneurs and experts*
+*Global Mentoring Session with Entrepreneurs and Venture Capitalists in Silicon Valley*
 
 ![Global Mentoring 2](assets/images/global-startup-studio/SCWP_Global_Mentoring_2_2026.jpg)
-*Follow-up global mentoring and business strategy discussion*
+*Global Mentoring Session with Entrepreneurs and Venture Capitalists in Silicon Valley*
 
 ![Google Visitor Center](assets/images/global-startup-studio/SCWP_GOOGLE_2026.jpg)
 *Visit to the Google Visitor Center*
 
 ![Berkeley Skydeck](assets/images/global-startup-studio/SCWP_Berkeley_Skydeck_2026.jpg)
-*Visit to Berkeley SkyDeck, a global startup accelerator*
+*Visit to Berkeley SkyDeck, a Global Startup Accelerator*
+
 
 
 
