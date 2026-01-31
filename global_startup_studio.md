@@ -103,6 +103,8 @@ This course is avilable only for student who participated SNU Campus in the Worl
 ![CES 2026 Exhibition](assets/images/global-startup-studio/SCWP_CES_2026.jpg)
 ![Stanford University Visit](assets/images/global-startup-studio/SCWP_Stanford_2026.jpg)
 ![UKF 82 Startup Summit](assets/images/global-startup-studio/SCWP_UKF82_2026.jpg)
+![Global Mentoring 1](assets/images/global-startup-studio/SCWP_Global_Mentoring_1_2026.jpg)
+![Global Mentoring 2](assets/images/global-startup-studio/SCWP_Global_Mentoring_2_2026.jpg)
 ![Google Visitor Center](assets/images/global-startup-studio/SCWP_GOOGLE_2026.jpg)
 ![Berkeley Skydeck](assets/images/global-startup-studio/SCWP_Berkeley_Skydeck_2026.jpg)
 
