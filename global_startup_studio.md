@@ -104,7 +104,7 @@ This course is avilable only for student who participated SNU Campus in the Worl
 ![Stanford University Visit](assets/images/global-startup-studio/SCWP_Stanford_2026.jpg)
 ![UKF 82 Startup Summit](assets/images/global-startup-studio/SCWP_UKF82_2026.jpg)
 ![Google Visitor Center](assets/images/global-startup-studio/SCWP_GOOGLE_2026.jpg)
-![Berkeley Skydeck](assets/images/global-startup-studio/SCWP_Berkeley Skydeck_2026.jpg)
+![Berkeley Skydeck](assets/images/global-startup-studio/SCWP_Berkeley_Skydeck_2026.jpg)
 
 
 
