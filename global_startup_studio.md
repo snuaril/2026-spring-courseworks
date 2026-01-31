@@ -100,13 +100,50 @@ This course is avilable only for student who participated SNU Campus in the Worl
 
 **Photos**
 
+<!--
 ![CES 2026 Exhibition](assets/images/global-startup-studio/SCWP_CES_2026.jpg)
-![Stanford University Visit](assets/images/global-startup-studio/SCWP_Stanford_2026.jpg)
 ![UKF 82 Startup Summit](assets/images/global-startup-studio/SCWP_UKF82_2026.jpg)
+![Stanford University Visit](assets/images/global-startup-studio/SCWP_Stanford_2026.jpg)
 ![Global Mentoring 1](assets/images/global-startup-studio/SCWP_Global_Mentoring_1_2026.jpg)
 ![Global Mentoring 2](assets/images/global-startup-studio/SCWP_Global_Mentoring_2_2026.jpg)
 ![Google Visitor Center](assets/images/global-startup-studio/SCWP_GOOGLE_2026.jpg)
 ![Berkeley Skydeck](assets/images/global-startup-studio/SCWP_Berkeley_Skydeck_2026.jpg)
+-->
+
+<figure>
+  <img src="assets/images/global-startup-studio/SCWP_CES_2026.jpg" alt="CES 2026 Exhibition">
+  <figcaption>CES 2026 Exhibition, Las Vegas</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/images/global-startup-studio/SCWP_UKF82_2026.jpg" alt="UKF 82 Startup Summit">
+  <figcaption>UKF 82 Startup Summit</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/images/global-startup-studio/SCWP_Stanford_2026.jpg" alt="Stanford University Visit">
+  <figcaption>Stanford University Visit and Startup Ecosystem Exploration</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/images/global-startup-studio/SCWP_Global_Mentoring_1_2026.jpg" alt="Global Mentoring Session 1">
+  <figcaption>Global Mentoring Session with Local Entrepreneurs and Experts</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/images/global-startup-studio/SCWP_Global_Mentoring_2_2026.jpg" alt="Global Mentoring Session 2">
+  <figcaption>Follow-up Global Mentoring and Business Strategy Discussion</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/images/global-startup-studio/SCWP_GOOGLE_2026.jpg" alt="Google Visitor Center">
+  <figcaption>Visit to the Google Visitor Center</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/images/global-startup-studio/SCWP_Berkeley_Skydeck_2026.jpg" alt="Berkeley SkyDeck">
+  <figcaption>Visit to Berkeley SkyDeck, a Global Startup Accelerator</figcaption>
+</figure>
 
 
 
