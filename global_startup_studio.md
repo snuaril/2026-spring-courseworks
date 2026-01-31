@@ -86,17 +86,30 @@ This course is avilable only for student who participated SNU Campus in the Worl
 
 | Date | Activity |
 |:----:|----|
-| 1/6 | Travel from Incheon Airport to Las Vegas |
-| 1/7 | CES Attendance |
-| 1/8 | CES Attendance |
+| 1/6 | Travel from Incheon International Airport to Las Vegas |
+| 1/7 | Attendance at CES 2026 |
+| 1/8 | Attendance at CES 2026 |
 | 1/9 | Travel from Las Vegas to San Francisco |
 | 1/10 | Participation in the UKF 82 Startup Summit |
-| 1/11 | Stanford University Visit and Startup Ecosystem Visits and Global Mentoring |
-| 1/12 | Startup Ecosystem Visits and Global Mentoring |
-| 1/13 | Startup Ecosystem Visits and Global Mentoring |
-| 1/14 | Visit to the Google Visitor Center and Berkeley SkyDeck |
-| 1/15 | Return from San Francisco to Incheon Airport |
-| 1/16 | Return from San Francisco to Incheon Airport |
+| 1/11 | Visit to Stanford University and Startup Ecosystem Engagements, including Global Mentoring |
+| 1/12 | Startup Ecosystem Engagements and Global Mentoring |
+| 1/13 | Startup Ecosystem Engagements and Global Mentoring |
+| 1/14 | Silicon Valley Tour (Google Visitor Center, Intuit, Intel, Berkeley SkyDeck) |
+| 1/15 | Return from San Francisco to Incheon International Airport |
+| 1/16 | Arrival at Incheon International Airport |
+
+**Photos**
+
+![CES 2026 Exhibition](assets/images/global-startup-studio/SCWP_CES_2026.jpg)
+![Stanford University Visit](assets/images/global-startup-studio/SCWP_Stanford_2026.jpg)
+![UKF 82 Startup Summit](assets/images/global-startup-studio/SCWP_UKF82_2026.jpg)
+![Google Visitor Center](assets/images/global-startup-studio/SCWP_GOOGLE_2026.jpg)
+![Berkeley Skydeck](assets/images/global-startup-studio/SCWP_Berkeley Skydeck_2026.jpg)
+
+
+
+
+
 
 <!--
 | Phase | Week | Date | Topic | Lab session / Activity |
@@ -124,5 +137,3 @@ This course is avilable only for student who participated SNU Campus in the Worl
 - Gyuho Lee, Seong-Woo Kim, and Mingu Jeon, “Machinery Value Estimation Method based on IIoT System Utilizing 1D-CNN Model for Low Sampling Rate Vibration Signals from MEMS,” IEEE Internet of Things Journal, Vol. 10, No. 14, pp. 12261-12275, July. 2023
 - Mingu Jeon, Siyun Yoo, and Seong-Woo Kim, "A Contactless PCBA Defect Detection Method: Convolutional Neural Networks with Thermographic Images," IEEE Transactions on Components, Packaging and Manufacturing Technology, Vol. 12, No. 3, pp 489 - 501, March 2022
 -->
-
-## Photos
