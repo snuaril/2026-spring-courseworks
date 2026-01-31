@@ -111,10 +111,10 @@ This course is avilable only for student who participated SNU Campus in the Worl
 -->
 
 ![CES 2026 Exhibition](assets/images/global-startup-studio/SCWP_CES_2026.jpg)
-*CES 2026 Exhibition, Las Vegas*
+*CES 2026 Exhibition*
 
 ![UKF 82 Startup Summit](assets/images/global-startup-studio/SCWP_UKF82_2026.jpg)
-*UKF 82 Startup Summit, Palo Alto*
+*UKF 82 Startup Summit*
 
 ![Stanford University Visit](assets/images/global-startup-studio/SCWP_Stanford_2026.jpg)
 *Stanford University Visit*
