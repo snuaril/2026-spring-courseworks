@@ -110,40 +110,26 @@ This course is avilable only for student who participated SNU Campus in the Worl
 ![Berkeley Skydeck](assets/images/global-startup-studio/SCWP_Berkeley_Skydeck_2026.jpg)
 -->
 
-<figure>
-  <img src="assets/images/global-startup-studio/SCWP_CES_2026.jpg" alt="CES 2026 Exhibition">
-  <figcaption>CES 2026 Exhibition, Las Vegas</figcaption>
-</figure>
+![CES 2026 Exhibition](assets/images/global-startup-studio/SCWP_CES_2026.jpg)
+*CES 2026 Exhibition, Las Vegas*
 
-<figure>
-  <img src="assets/images/global-startup-studio/SCWP_UKF82_2026.jpg" alt="UKF 82 Startup Summit">
-  <figcaption>UKF 82 Startup Summit</figcaption>
-</figure>
+![UKF 82 Startup Summit](assets/images/global-startup-studio/SCWP_UKF82_2026.jpg)
+*UKF 82 Startup Summit*
 
-<figure>
-  <img src="assets/images/global-startup-studio/SCWP_Stanford_2026.jpg" alt="Stanford University Visit">
-  <figcaption>Stanford University Visit and Startup Ecosystem Exploration</figcaption>
-</figure>
+![Stanford University Visit](assets/images/global-startup-studio/SCWP_Stanford_2026.jpg)
+*Stanford University Visit and startup ecosystem exploration*
 
-<figure>
-  <img src="assets/images/global-startup-studio/SCWP_Global_Mentoring_1_2026.jpg" alt="Global Mentoring Session 1">
-  <figcaption>Global Mentoring Session with Local Entrepreneurs and Experts</figcaption>
-</figure>
+![Global Mentoring 1](assets/images/global-startup-studio/SCWP_Global_Mentoring_1_2026.jpg)
+*Global mentoring session with local entrepreneurs and experts*
 
-<figure>
-  <img src="assets/images/global-startup-studio/SCWP_Global_Mentoring_2_2026.jpg" alt="Global Mentoring Session 2">
-  <figcaption>Follow-up Global Mentoring and Business Strategy Discussion</figcaption>
-</figure>
+![Global Mentoring 2](assets/images/global-startup-studio/SCWP_Global_Mentoring_2_2026.jpg)
+*Follow-up global mentoring and business strategy discussion*
 
-<figure>
-  <img src="assets/images/global-startup-studio/SCWP_GOOGLE_2026.jpg" alt="Google Visitor Center">
-  <figcaption>Visit to the Google Visitor Center</figcaption>
-</figure>
+![Google Visitor Center](assets/images/global-startup-studio/SCWP_GOOGLE_2026.jpg)
+*Visit to the Google Visitor Center*
 
-<figure>
-  <img src="assets/images/global-startup-studio/SCWP_Berkeley_Skydeck_2026.jpg" alt="Berkeley SkyDeck">
-  <figcaption>Visit to Berkeley SkyDeck, a Global Startup Accelerator</figcaption>
-</figure>
+![Berkeley Skydeck](assets/images/global-startup-studio/SCWP_Berkeley_Skydeck_2026.jpg)
+*Visit to Berkeley SkyDeck, a global startup accelerator*
 
 
 
