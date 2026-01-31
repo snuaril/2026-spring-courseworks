@@ -6,7 +6,7 @@ description: >-
 ---
 
 # 글로벌 스타트업 스튜디오
-Artificial Intelligence for Manufacturing
+Global Startup Studio
 
 M2177.011400
 > This course is linked to the SNU Campus in the World program and selects one of the world’s major innovation hubs. Students form multidisciplinary teams to carry out practical startup projects and receive mentoring and feedback from local alumni, entrepreneurs, and experts. Through these activities, students cultivate problem-solving skills and entrepreneurial mindsets suited to global market environments, while building international business networks through direct engagement with local startup ecosystems. By testing and refining their ideas in diverse cultural and market contexts, students are expected to develop a balanced set of technical competencies, leadership skills, and global perspectives.
@@ -21,7 +21,7 @@ M2177.011400
 {% endfor %}
 
 ## Teaching Assistant
-{% assign teaching_assistants = site.staffers | where: 'role', 'ta_ai_for_manufacturing' %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'ta_global_startup_studio' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 {% for staffer in teaching_assistants %}
@@ -31,13 +31,18 @@ M2177.011400
 
 ---
 
+<!-- 
 ## Grading
 - Attendance: 5%
 - Assignment: 40%
 - Final Exam: 25%
 - Attitude: 5%
 - Project: 25%
+This course is avilable only for student who participated SNU Campus in the World Program.
+-->
 
+
+<!-- 
 ## Assignment
 - Defective PCB Detection
   - [Reference Paper](https://www.nature.com/articles/s41597-024-03656-8)    
@@ -47,6 +52,7 @@ M2177.011400
   - [Dataset](https://engineering.case.edu/bearingdatacenter/download-data-file)
 - LLM with Digital Twin
   - [Reference Paper](https://ieeexplore.ieee.org/document/10710900)
+-->
 
 <!--
 | Phase | Week | Date | Topic | Lab session / Activity |
@@ -54,6 +60,8 @@ M2177.011400
 | **Phase I – Manufacturing from Living Systems** | 1 | 3/4 | Course Introduction: Why **Physical AI** for Manufacturing<br />- Overview of course structure and projects | - |
 |  | 2 | 3/11 | Manufacturing in Living Systems I: Cell-Level Production<br />- How single cells manufacture structure and function. DNA as constraint rather than blueprint. Distributed manufacturing without centralized control | Individual expertise and interests introduction |
 -->
+
+<!-- 
 ## Lecture Schedule
 
 | Phase | Week | Date | Topic | Lab session / Activity |
@@ -73,8 +81,11 @@ M2177.011400
 |  | 13 | 5/27 | Multi-Agent Systems and Human–AI Collaboration<br />- Limits of full automation. Designing human intervention, responsibility, and safety | - |
 |  | 14 | 6/3 | Peer Review | - |
 |  | 15 | 6/10 | Final Presentation | - |
+-->
 
+<!-- 
 ## References
 - Mingu Jeon, In-Ho Choi, Seung-Woo Seo, and Seong-Woo Kim, "Extremely Rare Anomaly Detection Pipeline in Semiconductor Bonding Process with Digital Twin-driven Data Augmentation Method," IEEE Transactions on Components, Packaging and Manufacturing Technology, Vol. 14, No. 10, pp. 1891 - 1902, Oct. 2024
 - Gyuho Lee, Seong-Woo Kim, and Mingu Jeon, “Machinery Value Estimation Method based on IIoT System Utilizing 1D-CNN Model for Low Sampling Rate Vibration Signals from MEMS,” IEEE Internet of Things Journal, Vol. 10, No. 14, pp. 12261-12275, July. 2023
 - Mingu Jeon, Siyun Yoo, and Seong-Woo Kim, "A Contactless PCBA Defect Detection Method: Convolutional Neural Networks with Thermographic Images," IEEE Transactions on Components, Packaging and Manufacturing Technology, Vol. 12, No. 3, pp 489 - 501, March 2022
+-->
