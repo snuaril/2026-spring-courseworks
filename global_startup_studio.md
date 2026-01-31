@@ -31,6 +31,9 @@ M2177.011400
 
 ---
 
+## Note
+This course is avilable only for student who participated SNU Campus in the World Program.
+
 <!-- 
 ## Grading
 - Attendance: 5%
@@ -38,7 +41,6 @@ M2177.011400
 - Final Exam: 25%
 - Attitude: 5%
 - Project: 25%
-This course is avilable only for student who participated SNU Campus in the World Program.
 -->
 
 
@@ -61,9 +63,46 @@ This course is avilable only for student who participated SNU Campus in the Worl
 |  | 2 | 3/11 | Manufacturing in Living Systems I: Cell-Level Production<br />- How single cells manufacture structure and function. DNA as constraint rather than blueprint. Distributed manufacturing without centralized control | Individual expertise and interests introduction |
 -->
 
-<!-- 
-## Lecture Schedule
+## 2026 SNU Campus in the World Program
 
+### Program Overview
+
+**Objectives**
+- To identify students with strong aspirations for global entrepreneurship within the university and support their growth toward successful AI-based global startups.
+- To provide opportunities for global mentoring and advanced business planning based on each participant’s startup idea, thereby promoting entrepreneurial success.
+
+**Expected Outcomes**  
+- Through the program, participants are expected to establish startup companies and achieve tangible progress toward entry into global markets.
+
+**Eligibility**  
+- 15 enrolled students of Seoul National University
+
+**Visited Regions**  
+- Las Vegas, San Francisco, Palo Alto, USA
+
+**Program Period**  
+- January 6–14, 2026  
+  (Return to Korea: January 16, 2026)
+
+
+| Date | Topic |
+|:----:|----|
+| 1/6 | Travel to Las Vegas |
+| 1/7 | CES Visit |
+| 1/8 | CES Visit |
+| 1/9 | Travel to San Francisco |
+| 1/10 | Participation in the UKF 82 Startup Summit |
+| 1/11 | Stanford University Visit and Participation in the 2080 Ventures Workshop |
+| 1/12 | Participation in the 2080 Ventures Workshop |
+| 1/13 | Participation in the 2080 Ventures Workshop |
+| 1/14 | Visit to the Google Visitor Center and Berkeley SkyDeck |
+| 1/15 | Return to Korea |
+| 1/16 | Return to Korea |
+
+
+
+
+<!--
 | Phase | Week | Date | Topic | Lab session / Activity |
 |:----|:----:|:----:|----|------|
 | **Phase I – Manufacturing from Living Systems** | 1 | 3/4 | Course Introduction: Why **Physical AI** for Manufacturing<br />- Overview of course structure and projects | - |
