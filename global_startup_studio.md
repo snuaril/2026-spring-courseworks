@@ -65,8 +65,6 @@ This course is avilable only for student who participated SNU Campus in the Worl
 
 ## 2026 SNU Campus in the World Program
 
-### Program Overview
-
 **Objectives**
 - To identify students with strong aspirations for global entrepreneurship within the university and support their growth toward successful AI-based global startups.
 - To provide opportunities for global mentoring and advanced business planning based on each participant’s startup idea, thereby promoting entrepreneurial success.
@@ -84,23 +82,20 @@ This course is avilable only for student who participated SNU Campus in the Worl
 - January 6–14, 2026  
   (Return to Korea: January 16, 2026)
 
-
-| Date | Topic |
+**Detailed Schedule**
+| Date | Activity |
 |:----:|----|
-| 1/6 | Travel to Las Vegas |
-| 1/7 | CES Visit |
-| 1/8 | CES Visit |
-| 1/9 | Travel to San Francisco |
+| 1/6 | Travel from Incheon Airport to Las Vegas |
+| 1/7 | CES Attendance |
+| 1/8 | CES Attendance |
+| 1/9 | Travel from Las Vegas to San Francisco |
 | 1/10 | Participation in the UKF 82 Startup Summit |
-| 1/11 | Stanford University Visit and Participation in the 2080 Ventures Workshop |
-| 1/12 | Participation in the 2080 Ventures Workshop |
-| 1/13 | Participation in the 2080 Ventures Workshop |
+| 1/11 | Stanford University Visit and Startup Ecosystem Visits and Global Mentoring |
+| 1/12 | Startup Ecosystem Visits and Global Mentoring |
+| 1/13 | Startup Ecosystem Visits and Global Mentoring |
 | 1/14 | Visit to the Google Visitor Center and Berkeley SkyDeck |
-| 1/15 | Return to Korea |
-| 1/16 | Return to Korea |
-
-
-
+| 1/15 | Return from San Francisco to Incheon Airport |
+| 1/16 | Return from San Francisco to Incheon Airport |
 
 <!--
 | Phase | Week | Date | Topic | Lab session / Activity |
@@ -128,3 +123,5 @@ This course is avilable only for student who participated SNU Campus in the Worl
 - Gyuho Lee, Seong-Woo Kim, and Mingu Jeon, “Machinery Value Estimation Method based on IIoT System Utilizing 1D-CNN Model for Low Sampling Rate Vibration Signals from MEMS,” IEEE Internet of Things Journal, Vol. 10, No. 14, pp. 12261-12275, July. 2023
 - Mingu Jeon, Siyun Yoo, and Seong-Woo Kim, "A Contactless PCBA Defect Detection Method: Convolutional Neural Networks with Thermographic Images," IEEE Transactions on Components, Packaging and Manufacturing Technology, Vol. 12, No. 3, pp 489 - 501, March 2022
 -->
+
+## Photos
