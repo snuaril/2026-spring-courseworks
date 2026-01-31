@@ -5,14 +5,14 @@ description: >-
     Course policies and information.
 ---
 
-# 제조를 위한 인공지능
+# 글로벌 스타트업 스튜디오
 Artificial Intelligence for Manufacturing
 
-M2866.004300
-> As our understanding deepens of how humans interact with the physical world through perception, judgment, and action to create structure and function, artificial intelligence is expanding beyond simple prediction and automation toward Physical AI, systems that make decisions, take actions, and produce physical outcomes. This shift is expected to bring a fundamental transformation to manufacturing, a domain that has traditionally remained outside the full scope of automation. This course reinterprets manufacturing not as a problem of process optimization or data-driven prediction, but as an intelligent system that actively creates in the physical world, inspired by principles derived from living systems. The course examines biological manufacturing processes from the level of single cells to neural learning and plasticity, and explores the foundations of visual, language, and generative intelligence to understand their implications for manufacturing system design. Going beyond conventional manufacturing AI applications such as inspection, prediction, and maintenance, students address real-world challenges across the manufacturing lifecycle, including product and structural design, intelligent manufacturing systems, and human–AI–machine collaboration. Through projects based on their own company domains and data, students design and evaluate manufacturing AI systems with an emphasis on explainability, responsibility, and safety, developing practical capabilities for applying Physical AI in real industrial environments.
+M2177.011400
+> This course is linked to the SNU Campus in the World program and selects one of the world’s major innovation hubs. Students form multidisciplinary teams to carry out practical startup projects and receive mentoring and feedback from local alumni, entrepreneurs, and experts. Through these activities, students cultivate problem-solving skills and entrepreneurial mindsets suited to global market environments, while building international business networks through direct engagement with local startup ecosystems. By testing and refining their ideas in diverse cultural and market contexts, students are expected to develop a balanced set of technical competencies, leadership skills, and global perspectives.
 
-- __Location__: Bld 38-429
-- __Lecture__: Wednesday 14:00 – 16:50
+<!-- - __Location__: Bld 38-429 -->
+<!-- - __Lecture__: Wednesday 14:00 – 16:50 -->
   
 ## Instructor
 {% assign instructors = site.staffers | where: 'role', 'instructor' %}
