@@ -5,4 +5,4 @@ email:
 website: 
 photo: tristan.jpg
 ---
-Mentor
+Mentor, Business Modeling topics
