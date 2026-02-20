@@ -34,14 +34,29 @@ This course is designed primarily for engineering students and is open to prospe
 {% endfor %}
 {% endif %}
 
-## Mentor
-{% assign mentors = site.staffers | where: 'role', 'mentor_global_product_development' %}
-{% assign num_mentors = mentors | size %}
-{% if num_mentors != 0 %}
-{% for staffer in mentors %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+<div style="display: flex; gap: 40px;">
+  <div style="flex: 1;">
+    <h2>Mentor</h2>
+    {% assign mentors = site.staffers | where: 'role', 'mentor_global_product_development' %}
+    {% assign num_mentors = mentors | size %}
+    {% if num_mentors != 0 %}
+      {% for staffer in mentors %}
+        {{ staffer }}
+      {% endfor %}
+    {% endif %}
+  </div>
+  
+  <div style="flex: 1;">
+    <h2>Organizer</h2>
+    {% assign organizers = site.staffers | where: 'role', 'organizer_global_product_development' %}
+    {% assign num_organizers = organizers | size %}
+    {% if num_organizers != 0 %}
+      {% for staffer in organizers %}
+        {{ staffer }}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
 
 ---
 
