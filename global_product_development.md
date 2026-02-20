@@ -48,9 +48,6 @@ This course is designed primarily for engineering students and is open to prospe
 ## Grading
 TBD
 
-## Assignment
-TBD
-
 
 ## Lecture Schedule
 
