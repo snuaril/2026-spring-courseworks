@@ -34,7 +34,7 @@ This course is designed primarily for engineering students and is open to prospe
 {% endfor %}
 {% endif %}
 
-## Organizer
+## Organizers
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 800px;">
   {% assign organizers = site.staffers | where: 'role', 'organizer_global_product_development' %}
   {% assign num_organizers = organizers | size %}
@@ -45,7 +45,7 @@ This course is designed primarily for engineering students and is open to prospe
   {% endif %}
 </div>
 
-## Mentor
+## Mentors
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 800px;">
   {% assign mentors = site.staffers | where: 'role', 'mentor_global_product_development' %}
   {% assign num_mentors = mentors | size %}
