@@ -5,4 +5,4 @@ email:
 website: 
 photo: christine.jpg
 ---
-Mentor
+Mentor, Ideation topics
