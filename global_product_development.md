@@ -12,7 +12,7 @@ M2177.002400
 > This course is a practice-oriented entrepreneurship program designed to develop creative ideas into real products and viable companies for the global market. Going beyond simulation-based startups limited to the domestic context, the course focuses on problem definition, product design, business structuring, and ultimately company incorporation based on the U.S. market. The course is organized as a studio-style class centered on mentoring and feedback from global venture capitalists and experienced entrepreneurs. Rather than relying on traditional lectures, students engage in team-based projects and iterative validation processes. Through this approach, students learn to identify genuine customer problems, design minimum viable products (MVPs), and build compelling product and company narratives that are persuasive from a global investor’s perspective. The course is operated intensively with a selective group of aspiring entrepreneurs. Outstanding teams are offered short-term overseas immersion programs, providing direct exposure to global startup ecosystems such as Silicon Valley, along with opportunities to interact with local venture capitalists, founders, and industry experts, and to participate in pitching sessions. Through these experiences, students aim to acquire practical entrepreneurial capabilities to build startups that can operate effectively in global markets, rather than merely proposing ideas.
 
 - __Location__: 
-  - Week 1 (2/26): 38-420
+  - Week 1 (2/26): Bld 38-420
   - Week 2 onwards: Online ([Zoom Link](https://us06web.zoom.us/my/natochakvetadze?pwd=RJSSyk9DXCQ58h2wJeWiqPNwSvbZPY.1))
 - __Lecture__: Thursday 14:00 – 16:50
 
