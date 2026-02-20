@@ -5,4 +5,4 @@ email:
 website: 
 photo: emily.jpg
 ---
-Mentor
+Mentor, Investor Pitch Deck relations topics 
