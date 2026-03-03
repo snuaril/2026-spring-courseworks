@@ -16,7 +16,7 @@ combines lectures and technical seminars for theoretical learning with hands-on 
 - __Lecture__: Friday 13:00 - 15:50
 
 ## Instructor
-{% assign instructors = site.staffers | where_exp: "s", "s.role and s.role contains 'instructor'" %}
+{% assign instructors = site.staffers | where: 'role', 'instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
