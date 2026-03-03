@@ -16,10 +16,33 @@ combines lectures and technical seminars for theoretical learning with hands-on 
 - __Lecture__: Friday 13:00 - 15:50
 
 ## Instructor
-{% assign instructors = site.staffers | where: 'role', 'instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
+{% assign instructors_main = site.staffers | where: "role", "instructor" %}
+{% assign instructors_solar = site.staffers | where: "role", "instructor_solar_car" %}
+{% assign instructors = instructors_main | concat: instructors_solar %}
+{% if instructors and instructors.size > 0 %}
+<style>
+.instructor-grid--solar {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+@media (min-width: 768px) {
+  .instructor-grid--solar {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+.instructor-grid--solar > * {
+  min-width: 0;
+}
+</style>
+<div class="instructor-grid--solar">
+  {% for staffer in instructors %}
+    <div>
+      {{ staffer }}
+    </div>
+  {% endfor %}
+</div>
+{% endif %}
 
 ## Teaching Assistants
 {% assign teaching_assistants = site.staffers | where: 'role', 'ta_solar_car' %}
