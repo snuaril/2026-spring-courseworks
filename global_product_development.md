@@ -63,6 +63,7 @@ TBD
 
 
 ## Lecture Schedule
+
 | Week | Date | Location | Topic | Weekly Assignment / Deliverables |
 |:----:|:----:|:--------:|----|------|
 | 1 | 2/26 | 38-420 | Global Startup Orientation | Survey with introduction & startup idea they want to develop during the semester  |
