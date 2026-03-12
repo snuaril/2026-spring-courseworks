@@ -63,22 +63,21 @@ TBD
 
 
 ## Lecture Schedule
-
-| Week | Date | Topic | Weekly Assignment / Deliverables |
-|:----:|:----:|----|------|
-| 1 | 2/26 | Global Startup Orientation | Survey with introduction & startup idea they want to develop during the semester  |
-| 2 | 3/5 | Individual Meeting & Team Bonding |  |
-| 3 | 3/12 | Jobs To Be Done | Jobs to be done canvas |
-| 4 | 3/19 | Designing Value Proposition | Group activity result submission |
-| 5 | 3/26 | Mastering Customer Discovery | Homework - Student self work : Customer Interview results |
-| 6 | 4/2 | MLP vs. MVP | A 2–4 week MVP roadmap <br /> A first "vibe-coded" prototype or test asset |
-| 7 | 4/9 | MVP Development & Early Validation | - |
-| 8 | 4/16 | Product–Market Fit Signals | Group activity result : 1 diagram + 3 retention risks + 1 metric per team. |
-| 9 | 4/23 | Business Model & Go-to-Market (US market) | US GTM Roadmap (4–6 weeks) <br /> Positioning & Messaging Draft |
-| 10 | 4/30 | Team, Equity & Founder Structure | Team role and structure <br /> Equity & Table Fundamentals |
-| 11 | 5/7 | US Incorporation & Legal Basics | US entity setup checklist <br /> Incorporation Execution Plan |
-| 12 | 5/14 | VC Perspective & Pitch Logic | A repeatable VC conversation structure (opening, story, metrics, ask, close) <br /> A refined fundraising narrative + ask |
-| 13 | 5/21 | Pitch Deck Refinement | Pitching deck and script draft |
-| 14 | 5/28 | Pre-Demo Review + Final Validation + Demo Day (Offline) | Pitching deck and script draft <br /> Final Demoday Pitching |
-| 15 | 6/4 | Feedback & Reflection & Grading |  |
+| Week | Date | Location | Topic | Weekly Assignment / Deliverables |
+|:----:|:----:|:--------:|----|------|
+| 1 | 2/26 | 38-420 | Global Startup Orientation | Survey with introduction & startup idea they want to develop during the semester  |
+| 2 | 3/5 | - | Individual Meeting & Team Bonding |  |
+| 3 | 3/12 | 38-417 | Jobs To Be Done | Jobs to be done canvas |
+| 4 | 3/19 | 38-417 | Designing Value Proposition | Group activity result submission |
+| 5 | 3/26 | 38-B105 | Mastering Customer Discovery | Homework - Student self work : Customer Interview results |
+| 6 | 4/2 | 38-417 | MLP vs. MVP | A 2–4 week MVP roadmap <br /> A first "vibe-coded" prototype or test asset |
+| 7 | 4/9 | 38-417 | MVP Development & Early Validation | - |
+| 8 | 4/16 | 38-417 | Product–Market Fit Signals | Group activity result : 1 diagram + 3 retention risks + 1 metric per team. |
+| 9 | 4/23 | 38-B105 | Business Model & Go-to-Market (US market) | US GTM Roadmap (4–6 weeks) <br /> Positioning & Messaging Draft |
+| 10 | 4/30 | 38-417 | Team, Equity & Founder Structure | Team role and structure <br /> Equity & Table Fundamentals |
+| 11 | 5/7 | 38-417 | US Incorporation & Legal Basics | US entity setup checklist <br /> Incorporation Execution Plan |
+| 12 | 5/14 | 38-417 | VC Perspective & Pitch Logic | A repeatable VC conversation structure (opening, story, metrics, ask, close) <br /> A refined fundraising narrative + ask |
+| 13 | 5/21 | 38-B105 | Pitch Deck Refinement | Pitching deck and script draft |
+| 14 | 5/28 | 38-417 | Pre-Demo Review + Final Validation + Demo Day (Offline) | Pitching deck and script draft <br /> Final Demoday Pitching |
+| 15 | 6/4 | - | Feedback & Reflection & Grading |  |
 
